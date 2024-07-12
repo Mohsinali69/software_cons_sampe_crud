@@ -4,14 +4,12 @@ import 'package:software_con/providers/items_providers.dart';
 import 'package:software_con/screens/item_screen_list.dart';
 import 'package:provider/provider.dart';
 
-
-
+//hello
 void main() {
   runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
-  
   @override
   Widget build(BuildContext context) {
     return ChangeNotifierProvider(
